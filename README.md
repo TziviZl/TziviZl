@@ -52,7 +52,7 @@
 ---
 
 ### 📄 Resume
-👉 [Download My CV](https://drive.google.com/file/d/1QAJKZLSnkCy-Qz-53B05RCD5PsdnzMFb/view?usp=sharing)
+👉 [Download My CV](https://drive.google.com/file/d/1ZOMzh7p-ftWDy2MlG8IHEUVstfV671tP/view)
 
 ---
 
