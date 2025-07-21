@@ -44,14 +44,15 @@
 
 ### 📌 Featured Projects
 
+- 🧠 [AI Learning Platform (Node.js + Express + React + PostgreSQL)](https://github.com/TziviZl/AI-Learning-Platform)  
+  Full-stack AI-based learning platform where users submit prompts and receive personalized lessons. Includes JWT auth, role-based admin dashboard, PostgreSQL with Prisma, OpenAI GPT integration, and a fully responsive React frontend.
+
 - 🏋️ [Gym Management System (C# + ASP.NET + React + SQL Server)](https://github.com/TziviZl/GymProject)  
   End-to-End web application for managing gym trainers, members, and classes, built with 3-tier architecture, Entity Framework, secure Web APIs, and a responsive React frontend.
-  
+
 - 🎯 [Bulls & Cows Game API (TypeScript + Express + MongoDB)](https://github.com/TziviZl/BullsCowsGame)  
   Logic-based REST API game with player registration, guess evaluation, history tracking, and secure validations using middleware and Mongoose.
 
-- 🎓 [Academic Management System (Java + Maven)](https://github.com/TziviZl/Maven) 
-  Clean architecture system for course & grade management.
 
 ---
 
