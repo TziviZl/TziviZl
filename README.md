@@ -39,9 +39,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-FFFFFF?style=flat&logo=prisma&logoColor=2D3748)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
-![Zod](https://img.shields.io/badge/-Zod-2D3748?style=flat&logo=zod&logoColor=FFFFFF)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
 ---
