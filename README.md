@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Tzivi Zlotnik</h1>
+<h1 align="center">I'm Tzivi Zlotnik</h1>
 
 <p align="center">
   <strong>Full Stack Developer</strong> with a passion for clean code, backend development, and AI 🤖
@@ -7,10 +7,10 @@
 ---
 
 ### 🚀 About Me
-🎓 Software Engineering diploma student at Mahat — Graduated with honors, GPA: 99  
-💡 Member of KamaTech Excellence Program  
-🔥 Focused on full stack development & AI  
-🎯 Strong in problem-solving, team collaboration, and writing maintainable code under pressure  
+ Software Engineering diploma student at Mahat — Graduated with honors, GPA: 99  
+ Member of KamaTech Excellence Program  
+ Focused on full stack development & AI  
+ Strong in problem-solving, team collaboration, and writing maintainable code under pressure  
 
 ---
 
@@ -62,6 +62,3 @@
 📧 Tzivi9763@gmail.com  
 
 ---
-
-### 🎉 Fun fact
-I love building things that make life easier – and I’m always learning something new 😄
